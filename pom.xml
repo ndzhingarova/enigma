@@ -4,6 +4,7 @@
     <groupId>com.nikilearn</groupId>
     <artifactId>enigma</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>enigma</name>
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
